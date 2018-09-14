@@ -5,12 +5,7 @@
 $ npm install
 ```
 
-### to initialize development mode based on VanillaJS run:
+### to initialize development mode run:
 ```sh
 $ npm run watch-js
-```
-
-### to initialize development mode based on ReactJS run:
-```sh
-$ npm run watch-react
 ```
