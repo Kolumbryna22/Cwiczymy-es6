@@ -23,6 +23,6 @@
     };
 
     function isString(arg) {
-        return typeof arg === 'string' ? 'true':'';
+        return typeof arg === 'string' ? 'true' : '';
     }
 }
